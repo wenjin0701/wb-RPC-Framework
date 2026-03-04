@@ -99,17 +99,3 @@ Wrpc/
 - **RPC服务端配置**：设置服务端 IP 和端口
 - **ZooKeeper配置**：设置 ZooKeeper 服务器 IP 和端口
 
-## 许可证
-
-本项目采用 MIT 许可证，详见 LICENSE 文件。
-
-## 贡献
-
-欢迎提交 Issue 和 Pull Request 来帮助改进这个项目。
-
-## 联系方式
-
-如有问题或建议，请通过以下方式联系：
-
-- Email: your.email@example.com
-- GitHub: https://github.com/yourusername/Wrpc
